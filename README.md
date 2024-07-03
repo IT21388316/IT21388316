@@ -12,7 +12,7 @@
 
 - 🎓 I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Java**
 
